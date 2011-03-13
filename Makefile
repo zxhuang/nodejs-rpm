@@ -1,3 +1,8 @@
+usage:
+	echo "Usage: make [node|download|rpm|clean]"
+
+all: usage
+
 #
 # download node src tarball and rename
 #
