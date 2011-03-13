@@ -1,1 +1,4 @@
 Makefile and rpm sepc for automatically creating Node.js rpm.
+
+Usage:
+make node
